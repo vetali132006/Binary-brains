@@ -1,0 +1,6 @@
+{
+  "name": "Clinkt Disruption Intelligence & Cart Diagnostic Hub",
+  "description": "Comprehensive cart-state sync diagnostics, funnel disruption analytics, inventory ghost-demand forecasting, and segment impact intelligence for Clinkt quick-commerce.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
